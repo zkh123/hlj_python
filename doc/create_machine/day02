@@ -1,0 +1,10 @@
+1, win系统  python环境的管理
+
+https://blog.csdn.net/lyy14011305/article/details/59500819
+
+查看本地python所有环境： conda info -a
+
+切换指定的环境： activate your_env_name
+
+查看指定环境安装的哪些包： activate your_env_name; conda list
+
