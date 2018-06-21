@@ -8,3 +8,7 @@ https://blog.csdn.net/lyy14011305/article/details/59500819
 
 查看指定环境安装的哪些包： activate your_env_name; conda list
 
+
+2, 关于db.sqlite3 不出现的问题
+   激活指定虚拟环境 执行python manage.py runserver 0.0.0.0:8000
+   然后机会出现db.sqlite3文件了。
