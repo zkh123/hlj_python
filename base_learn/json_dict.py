@@ -12,6 +12,5 @@ def json_test():
 
     print('dict_base type : {} ,json_data type : {}, python_object : {}'.format(dict_base,json_data,python_object))
 
-
 if __name__ == '__main__':
     json_test()
